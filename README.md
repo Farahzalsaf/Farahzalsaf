@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! My Name is Farah Al Safwan<br>👩‍💻​ I am a junior majoring in Computer Science at the Arab Open University, Saudi Arabia<br>🌱 I’m currently learning Data Analysis and Management<br>💬 Ask me about Java, OOP, Python <br>
+👋 Hello there! My Name is Farah Al Safwan<br>👩‍💻​ I am a junior majoring in Computer Science at the Arab Open University, Saudi Arabia<br>🌱 I’m currently learning Data Analysis and Management and Flutter <br>💬 Ask me about Java, OOP, Python <br>
 
 
 ## 🌐 Socials:
